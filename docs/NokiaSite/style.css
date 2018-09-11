@@ -38,6 +38,10 @@ html, body {
 	margin-top: 2rem;
 	margin-right: 1.5rem;
 }
+.p-header{
+	font-size: 5rem;
+}
+	
 .about {
 	margin-top: 5rem;
 	margin-bottom: 5rem;
