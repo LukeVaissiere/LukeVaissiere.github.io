@@ -479,7 +479,7 @@ background-color: #75b0e750
 
 
 /*-----------------------------------------------------------------------------------*/
-/*   Skillbar
+/*   Skill Circle
 /*-----------------------------------------------------------------------------------*/
 
 .jumbotron h3 {
@@ -552,10 +552,6 @@ background-color: #75b0e750
 	overflow: hidden;
 	margin-left:0px;
 
-}
-.graph{
-	margin-left: auto;
-	margin-right:auto;
 }
 .services-carousel .owl-dots{
   margin-top: 5px;
