@@ -512,7 +512,6 @@ background-color: #75b0e750
   background-color:  #51dad1ad ;
   position: relative;
 	padding-bottom: 20px;
-	padding-left: px;
 }
 #services h3 {
 	text-align: center;
@@ -527,6 +526,7 @@ background-color: #75b0e750
   margin: 10px 0;
   position: relative;
   font-size: 13px;
+ font-family: 'Viga';
   color: #292929;
   letter-spacing: 0.1em;
   font-weight: 500px;
